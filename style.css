@@ -1,0 +1,47 @@
+body {
+    background-color: #D6DCD8;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+#carrossel img {
+
+    object-fit: cover;
+
+}
+
+nav .navbar-brand,
+nav .nav-link {
+    color: #ffffff !important;
+}
+
+nav .nav-link:hover {
+    color: #f39c12 !important;
+}
+
+nav .nav-link.active {
+    color: #f39c12 !important;
+    font-weight: bold;
+}
+
+#sobre {
+   
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1e40af;
+    color: white;
+}
+
+.cores{
+    background-color: #1e40af !important;
+    color: white;
+}
+
+.cores p {
+    color: white !important;
+}
+
